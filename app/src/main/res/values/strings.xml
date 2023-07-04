@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Song_Saver</string>
+    <string name="tv_title">Song Title</string>
+    <string name="tv_singers">Singers</string>
+    <string name="tv_year">Year</string>
+    <string name="tv_stars">Stars</string>
+    <string name="et_title">Enter song title here</string>
+    <string name="et_singers">Enter singers\' name here</string>
+    <string name="et_year">Enter year of release here</string>
+    <string name="rb1">1</string>
+    <string name="rb2">2</string>
+    <string name="rb3">3</string>
+    <string name="rb4">4</string>
+    <string name="rb5">5</string>
+    <string name="btn_insert">INSERT</string>
+    <string name="btn_show">SHOW LIST</string>
+</resources>
